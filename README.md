@@ -1,3 +1,5 @@
 # Powershell Projects and Scripts
 
-- booker.ps1: Interactive CLI user management script
+## File Structure
+
+Powershell/Sysadmin: Systems Administration related projects/scripts
