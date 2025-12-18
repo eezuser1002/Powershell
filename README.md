@@ -2,4 +2,5 @@
 
 ## File Structure
 
-Powershell/Sysadmin: Systems Administration related projects/scripts
+- **Powershell/Sysadmin**: Systems Administration related projects/scripts
+- **Powershell/Security**: Security related projects/scripts
