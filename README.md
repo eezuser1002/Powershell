@@ -4,3 +4,4 @@
 
 - **Powershell/Sysadmin**: Systems Administration related projects/scripts
 - **Powershell/Security**: Security related projects/scripts
+- **Powershell/Azure**: Azure related projects/scripts
